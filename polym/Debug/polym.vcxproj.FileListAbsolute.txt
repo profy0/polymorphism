@@ -1,0 +1,2 @@
+C:\Users\nikit\source\repos\polym\Debug\polym.exe
+C:\Users\nikit\source\repos\polym\Debug\polym.pdb
